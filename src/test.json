@@ -1,0 +1,368 @@
+{
+  "owner_id": 3223009,
+  "event": "2023",
+  "members": {
+    "3223009": {
+      "local_score": 56,
+      "name": "Leanne de Goeij",
+      "stars": 9,
+      "completion_day_level": {
+        "1": {
+          "1": {
+            "star_index": 178601,
+            "get_star_ts": 1701461715
+          },
+          "2": {
+            "star_index": 192957,
+            "get_star_ts": 1701466005
+          }
+        },
+        "2": {
+          "1": {
+            "star_index": 1185779,
+            "get_star_ts": 1701811508
+          },
+          "2": {
+            "get_star_ts": 1701812508,
+            "star_index": 1188623
+          }
+        },
+        "3": {
+          "1": {
+            "get_star_ts": 1701815981,
+            "star_index": 1197901
+          },
+          "2": {
+            "star_index": 1200599,
+            "get_star_ts": 1701817179
+          }
+        },
+        "4": {
+          "1": {
+            "star_index": 1203816,
+            "get_star_ts": 1701818725
+          },
+          "2": {
+            "get_star_ts": 1701820805,
+            "star_index": 1207509
+          }
+        },
+        "5": {
+          "1": {
+            "star_index": 1370111,
+            "get_star_ts": 1701881050
+          }
+        }
+      },
+      "id": 3223009,
+      "last_star_ts": 1701881050,
+      "global_score": 0
+    },
+    "3223135": {
+      "last_star_ts": 1701850493,
+      "id": 3223135,
+      "global_score": 0,
+      "completion_day_level": {
+        "1": {
+          "1": {
+            "get_star_ts": 1701690780,
+            "star_index": 855684
+          },
+          "2": {
+            "get_star_ts": 1701770612,
+            "star_index": 1078115
+          }
+        },
+        "2": {
+          "1": {
+            "get_star_ts": 1701849275,
+            "star_index": 1277198
+          },
+          "2": {
+            "star_index": 1281620,
+            "get_star_ts": 1701850493
+          }
+        }
+      },
+      "stars": 4,
+      "name": "mewillemse",
+      "local_score": 16
+    },
+    "3223171": {
+      "name": "Dieuwertje Schuur",
+      "local_score": 5,
+      "last_star_ts": 1701680097,
+      "global_score": 0,
+      "id": 3223171,
+      "stars": 1,
+      "completion_day_level": {
+        "1": {
+          "1": {
+            "get_star_ts": 1701680097,
+            "star_index": 813724
+          }
+        }
+      }
+    },
+    "3226408": {
+      "name": "Bas Boot",
+      "local_score": 126,
+      "last_star_ts": 1701936773,
+      "global_score": 0,
+      "id": 3226408,
+      "stars": 14,
+      "completion_day_level": {
+        "1": {
+          "1": {
+            "get_star_ts": 1701412257,
+            "star_index": 0
+          },
+          "2": {
+            "get_star_ts": 1701413474,
+            "star_index": 3505
+          }
+        },
+        "2": {
+          "1": {
+            "get_star_ts": 1701500933,
+            "star_index": 280670
+          },
+          "2": {
+            "get_star_ts": 1701501208,
+            "star_index": 281476
+          }
+        },
+        "3": {
+          "1": {
+            "star_index": 555428,
+            "get_star_ts": 1701595149
+          },
+          "2": {
+            "get_star_ts": 1701598098,
+            "star_index": 564531
+          }
+        },
+        "4": {
+          "1": {
+            "get_star_ts": 1701672984,
+            "star_index": 784777
+          },
+          "2": {
+            "star_index": 787795,
+            "get_star_ts": 1701673816
+          }
+        },
+        "5": {
+          "1": {
+            "star_index": 1058168,
+            "get_star_ts": 1701763033
+          },
+          "2": {
+            "star_index": 1098953,
+            "get_star_ts": 1701779192
+          }
+        },
+        "6": {
+          "1": {
+            "star_index": 1275706,
+            "get_star_ts": 1701848853
+          },
+          "2": {
+            "get_star_ts": 1701848967,
+            "star_index": 1276121
+          }
+        },
+        "7": {
+          "1": {
+            "get_star_ts": 1701933245,
+            "star_index": 1473648
+          },
+          "2": {
+            "star_index": 1482485,
+            "get_star_ts": 1701936773
+          }
+        }
+      }
+    },
+    "3240724": {
+      "stars": 0,
+      "completion_day_level": {},
+      "last_star_ts": 0,
+      "id": 3240724,
+      "global_score": 0,
+      "local_score": 0,
+      "name": "Angelique-Smit"
+    },
+    "3274215": {
+      "name": null,
+      "local_score": 0,
+      "global_score": 0,
+      "last_star_ts": 0,
+      "id": 3274215,
+      "stars": 0,
+      "completion_day_level": {}
+    },
+    "3386333": {
+      "last_star_ts": 1701865836,
+      "global_score": 0,
+      "id": 3386333,
+      "stars": 5,
+      "completion_day_level": {
+        "1": {
+          "1": {
+            "star_index": 98162,
+            "get_star_ts": 1701440301
+          },
+          "2": {
+            "get_star_ts": 1701466575,
+            "star_index": 194818
+          }
+        },
+        "2": {
+          "1": {
+            "star_index": 479863,
+            "get_star_ts": 1701558332
+          },
+          "2": {
+            "get_star_ts": 1701638030,
+            "star_index": 696812
+          }
+        },
+        "3": {
+          "1": {
+            "get_star_ts": 1701865836,
+            "star_index": 1328484
+          }
+        }
+      },
+      "name": "Bob Pikaar",
+      "local_score": 34
+    },
+    "3545894": {
+      "name": "Isis",
+      "local_score": 92,
+      "id": 3545894,
+      "last_star_ts": 1701976948,
+      "global_score": 0,
+      "completion_day_level": {
+        "1": {
+          "1": {
+            "get_star_ts": 1701530087,
+            "star_index": 389286
+          },
+          "2": {
+            "get_star_ts": 1701539542,
+            "star_index": 423192
+          }
+        },
+        "2": {
+          "1": {
+            "get_star_ts": 1701541916,
+            "star_index": 430955
+          },
+          "2": {
+            "get_star_ts": 1701544813,
+            "star_index": 440046
+          }
+        },
+        "3": {
+          "1": {
+            "get_star_ts": 1701630317,
+            "star_index": 670896
+          },
+          "2": {
+            "star_index": 678502,
+            "get_star_ts": 1701632593
+          }
+        },
+        "4": {
+          "1": {
+            "get_star_ts": 1701720481,
+            "star_index": 963594
+          },
+          "2": {
+            "star_index": 974670,
+            "get_star_ts": 1701723493
+          }
+        },
+        "5": {
+          "1": {
+            "get_star_ts": 1701811671,
+            "star_index": 1186268
+          },
+          "2": {
+            "star_index": 1403886,
+            "get_star_ts": 1701894480
+          }
+        },
+        "6": {
+          "1": {
+            "get_star_ts": 1701976025,
+            "star_index": 1575643
+          },
+          "2": {
+            "star_index": 1577654,
+            "get_star_ts": 1701976948
+          }
+        }
+      },
+      "stars": 12
+    },
+    "3644649": {
+      "name": "antwanvdm",
+      "local_score": 54,
+      "last_star_ts": 1701897838,
+      "global_score": 0,
+      "id": 3644649,
+      "completion_day_level": {
+        "1": {
+          "1": {
+            "get_star_ts": 1701691475,
+            "star_index": 858068
+          },
+          "2": {
+            "get_star_ts": 1701719200,
+            "star_index": 958878
+          }
+        },
+        "2": {
+          "1": {
+            "star_index": 985622,
+            "get_star_ts": 1701726656
+          },
+          "2": {
+            "star_index": 988013,
+            "get_star_ts": 1701727401
+          }
+        },
+        "3": {
+          "1": {
+            "get_star_ts": 1701778193,
+            "star_index": 1096602
+          },
+          "2": {
+            "star_index": 1174779,
+            "get_star_ts": 1701807787
+          }
+        },
+        "4": {
+          "1": {
+            "star_index": 1190938,
+            "get_star_ts": 1701813325
+          },
+          "2": {
+            "get_star_ts": 1701815710,
+            "star_index": 1197227
+          }
+        },
+        "5": {
+          "1": {
+            "star_index": 1412415,
+            "get_star_ts": 1701897838
+          }
+        }
+      },
+      "stars": 9
+    }
+  }
+}
