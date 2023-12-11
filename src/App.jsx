@@ -4,9 +4,9 @@ import {useEffect, useState} from "react";
 function App() {
     const loadLeaderbord = async () => {
         const response = await fetch("https://docent.cmi.hro.nl/bootb/aoc/leaderboard.php");
-        console.log(response);
+        // console.log(response);
         const leaderbord = await response.json();
-        console.log(leaderbord);
+        // console.log(leaderbord);
         setMembers(leaderbord.members)
     }
 
@@ -47,12 +47,35 @@ function App() {
         member.rank = staleRank;
     }
 
-    const showMembers = memberList.map((member, key) => <li key={key}>{member.rank} - {member.name} ({member.stars} stars)</li>)
+    function calculatePoints(completionDayLevel) {
+        let points = 0;
+        const lastDateToScorePoints = new Date('January 8, 2024 00:00:00'); // day after at 00
+
+        const lastDateToScorePointsTS = lastDateToScorePoints.getTime() / 1000;
+
+        for (const [day, stars] of Object.entries(completionDayLevel)) {
+            for (const [star, value] of Object.entries(stars)) {
+                const tsStar = value.get_star_ts;
+
+                if (tsStar < lastDateToScorePointsTS) {
+                    points += 2;
+                }
+            }
+        }
+
+        console.log(completionDayLevel);
+        return points;
+    }
+
+    const showMembers = memberList.map((member, key) => <li key={key}>{member.rank} [{calculatePoints(member.completion_day_level)}]- {member.name} ({member.stars} stars)</li>)
     return (
         <div>
-        <h1>
-            CMGT Leaderboard (stars only)
+        <h1 className="title-global">
+            <a href="https://cmgt.hr.nl" target="_blank">CMGT Leaderboard (stars only)</a>
         </h1>
+            <div>
+                Until January the 7th 2024 every star is worth 2 points.
+            </div>
         <ul>
             {showMembers}
         </ul>
