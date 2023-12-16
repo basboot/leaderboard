@@ -36,7 +36,7 @@ function App() {
 
     // add rankings
     let rank = 0;
-    let lastScore = 30;
+    let lastScore = 1000;
     let staleRank = 0
     for (let member of memberList) {
         rank++;
